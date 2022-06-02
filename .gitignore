@@ -1,2 +1,3 @@
 *.csv
+!cleaned.csv
 unrelated_to_masters.ipynb
