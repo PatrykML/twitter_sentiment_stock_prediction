@@ -1,4 +1,3 @@
 *.csv
-!full_clean.csv
-!data_binned.csv
+!datasets/binned/*_binned.csv
 unrelated_to_masters.ipynb
