@@ -1,7 +1,9 @@
-def create_vectors(df, cols=None, lag=6):
+def create_vectors(df, main_col, cols=None, lag=6):
+    if main_col not in df:
+        raise ValueError
     X = []
     y = []
-    for window in df.close.rolling(window=lag):
+    for window in df[main_col].rolling(window=lag):
         if len(window) == lag:
             vector = window.to_list()
             X.append(vector[:-1])
