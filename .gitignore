@@ -1,3 +1,4 @@
 *.csv
 !datasets/binned/*_binned.csv
 unrelated_to_masters.ipynb
+scheduler.ipynb
