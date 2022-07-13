@@ -11,8 +11,8 @@ def create_vectors(df, main_col, cols=None, lag=6):
     if cols is not None:
         for col in cols:
             i = 0
-            for window in df[col].rolling(window=lag-1):
-                if len(window) == lag-1:
+            for window in df[col].rolling(window=lag - 1):
+                if len(window) == lag - 1:
                     vector = window.to_list()
                     if i < len(X):
                         X[i].extend(vector)
