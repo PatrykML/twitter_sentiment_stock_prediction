@@ -1,5 +1,9 @@
 *.csv
-!datasets/binned/*_binned.csv
+*.pyc
+
 unrelated_to_masters.ipynb
 scheduler.ipynb
+
 !datasets/relevant/*
+!datasets/binned/*_binned.csv
+
