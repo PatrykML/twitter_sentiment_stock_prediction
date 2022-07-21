@@ -6,4 +6,4 @@ scheduler.ipynb
 
 !datasets/relevant/*
 !datasets/binned/*_binned.csv
-
+!datasets/stocks/*
