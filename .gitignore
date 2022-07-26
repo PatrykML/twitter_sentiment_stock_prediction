@@ -3,8 +3,7 @@
 
 unrelated_to_masters.ipynb
 scheduler.ipynb
+plots/
 
-!datasets/relevant/*
 !datasets/binned/*_binned.csv
-!datasets/stocks/*
-!datasets/sentiment_leveled/*
+!datasets/v2/full_weighted
