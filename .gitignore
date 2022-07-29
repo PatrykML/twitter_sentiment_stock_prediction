@@ -8,3 +8,4 @@ plots/
 !datasets/binned/*_binned.csv
 !datasets/v1/binned/*
 !datasets/v2/full_weighted/*
+!datasets/v3/*
