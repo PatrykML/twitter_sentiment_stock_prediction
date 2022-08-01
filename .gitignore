@@ -5,7 +5,6 @@ unrelated_to_masters.ipynb
 scheduler.ipynb
 plots/
 
-!datasets/binned/*_binned.csv
-!datasets/v1/binned/*
 !datasets/v2/full_weighted/*
-!datasets/v3/*
+!datasets/v3/more_cols/*
+
