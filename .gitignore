@@ -6,5 +6,6 @@ scheduler.ipynb
 plots/
 
 !datasets/v2/full_weighted/*
-!datasets/v3/more_cols/*
+!datasets/v2.1/more_cols/no_weight/*
+!datasets/v2.1/more_cols/w1/*
 
