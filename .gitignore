@@ -7,4 +7,5 @@ plots/
 
 !datasets/v2/full_weighted/*
 !datasets/v2.1/*/*/*
+!datasets/v3/binned/*
 
