@@ -1,4 +1,3 @@
-Nieodłączną częścią pracy jest kod źródłowy w którym znajdują się wszystkie narzędzia które umożliwiły mi przedstawienie wyników analizy.
 Kod źródłowy ustrukturyzowany jest w pięciu katalogach:
 
     * datasets - katalog w którym znajdują się wszystkie zbiory danych z których korzystałem w pracy,
