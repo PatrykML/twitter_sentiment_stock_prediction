@@ -1,3 +1,6 @@
+# funkcje sluzace do generowania danych
+
+
 def create_vectors(df, main_col, cols=None, lag=6):
     if main_col not in df:
         raise ValueError
