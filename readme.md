@@ -16,3 +16,6 @@ W datasets znajdziemy pliki z historycznymi notowaniami giełdy, tweety i
 zagregowanymi danymi dla każdej spółki. Najnowsze dane w finalnej postaci dla każdej spółki znajdują się w katalogu datasets/v3.
 
 Katalogi plots i results zawierają pliki z wynikami przedstawionymi w formie wykresów w istnotności cech i formie tekstowej w przypadku trafności, F1 i ROC.
+
+Project from a blog post:
+https://medium.com/@wieczorekpatryk98/4-important-things-ive-learned-from-my-first-big-data-science-project-and-how-can-they-save-you-dfad06f9304e
